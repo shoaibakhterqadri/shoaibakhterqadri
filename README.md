@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shoaibakhterqadri
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web and Mobile App Developement Course.
+- 🌱 I have learnt HTML, CSS, JavaScript, Firebase, C Sharp and Java programming Languages.
+- 💞️ I’m currently learning React JS, Node JS and Mongodb.
+- 📫 You can contact me by my gitup profile or contact us page of my site (https://codingshub.com/contact-us/contact/index.html)
 
 <!---
 shoaibakhterqadri/shoaibakhterqadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
